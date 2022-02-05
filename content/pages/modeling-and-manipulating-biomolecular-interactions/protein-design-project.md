@@ -17,8 +17,45 @@ Bromodomains are protein domains that specifically recognize acetylated lysines.
 
  Note: Appendix A is a basic PyMOL primer. Appendix B is a basic PyRosetta primer.
 
-| PROJECT HANDOUTS | SUPPORTING FILES |
-| --- | --- |
-| [Protein Design Project - Parts 1 and 2 and Appendices A and B (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pr_p1-2) | [2DVQ\_project.pdb (PDB)]({{< baseurl >}}/resources/2dvq_project) |
-| [Protein Design Project - Part 3 and Appendices A and B (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pro_pa3) | [peptide\_assignments.xls (XLS)]({{< baseurl >}}/resources/mit20_320f12_pept_assign) |
-| [Protein Design Project - Part 4 and Appendices A and B (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pro_pa4) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECT HANDOUTS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Protein Design Project - Parts 1 and 2 and Appendices A and B (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pr_p1-2)
+{{< tdclose >}}
+{{< tdopen >}}
+[2DVQ\_project.pdb (PDB)]({{< baseurl >}}/resources/2dvq_project)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Protein Design Project - Part 3 and Appendices A and B (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pro_pa3)
+{{< tdclose >}}
+{{< tdopen >}}
+[peptide\_assignments.xls (XLS)]({{< baseurl >}}/resources/mit20_320f12_pept_assign)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Protein Design Project - Part 4 and Appendices A and B (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_pr_de_pro_pa4)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

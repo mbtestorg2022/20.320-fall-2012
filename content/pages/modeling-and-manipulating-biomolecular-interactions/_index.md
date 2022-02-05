@@ -16,32 +16,192 @@ Diverse problems ranging from fundamental questions of molecular biology to drug
 
 _These are Prof. Ernest Fraenkel's lecture notes._
 
-| TOPICS |
-| --- |
-| [Introduction: Modeling and Manipulating Biomolecular Interactions (PDF)]({{< baseurl >}}/resources/mit20_320f12_sectn_intr) |
-| [Protein Structure and Energetics (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_1_pro_st) |
-| [Interaction Specificity (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_tpc_2_specity) |
-| [Molecular Design Part 1 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit20_320f12_tpc_3_mol_des) |
-| [Modeling Disease (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_4_mod_dis) |
-| [Protein Structure Prediction (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_5_pred_str) |
-| [Network Modeling (PDF)]({{< baseurl >}}/resources/mit20_320f12_netok_model) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction: Modeling and Manipulating Biomolecular Interactions (PDF)]({{< baseurl >}}/resources/mit20_320f12_sectn_intr)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Protein Structure and Energetics (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_1_pro_st)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Interaction Specificity (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_tpc_2_specity)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Molecular Design Part 1 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit20_320f12_tpc_3_mol_des)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Modeling Disease (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_4_mod_dis)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Protein Structure Prediction (PDF)]({{< baseurl >}}/resources/mit20_320f12_tpc_5_pred_str)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Network Modeling (PDF)]({{< baseurl >}}/resources/mit20_320f12_netok_model)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Teaching assistants Daniel Martin-Alarcon and Allison Claas took these lecture notes during class._
 
-| LEC # | TOPICS |
-| --- | --- |
-| 12 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture12) |
-| 13 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture13) |
-| 14 | [Paralogues and orthologues, protein therapeutics (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture14) (These lecture notes are incomplete.) |
-| 15 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Specificity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture15) |
-| 16 | [The metropolis algorithm (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture16) |
-| 17 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_320f12_lecture17) |
-| 18 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Drug development case study: Imatinib (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture18) |
-| 20 |  {{< br >}}{{< br >}} Guest lecture by Rebecca L. Carrier: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Impact of drug delivery of effectiveness (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture20) {{< br >}}{{< br >}} Courtesy of Rebecca L. Carrier. Used with permission. {{< br >}}{{< br >}}  |
-| 21 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Protein folding: thermodynamics (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture21) |
-| 22 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinetics of folding, predicting protein structure (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_lecture22) |
-| 23 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structure from sequence (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture23) |
-| 24 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture24) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+[Paralogues and orthologues, protein therapeutics (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture14) (These lecture notes are incomplete.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Specificity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[The metropolis algorithm (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_320f12_lecture17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Drug development case study: Imatinib (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecture by Rebecca L. Carrier: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Impact of drug delivery of effectiveness (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture20)
+
+Courtesy of Rebecca L. Carrier. Used with permission.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Protein folding: thermodynamics (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture21)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinetics of folding, predicting protein structure (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_lecture22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structure from sequence (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture23)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture24)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Reading_Material" >}}{{< /anchor >}}Reading Material (Optional)
 ---------------------------------------------------------------------------

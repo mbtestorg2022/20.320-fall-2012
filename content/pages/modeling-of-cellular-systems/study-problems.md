@@ -15,10 +15,121 @@ While these problems are not turned in for grading, they will greatly help you p
 
 The additional reference problems tend to be more coding-based and will help with additional practice to help with the [design project]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions/protein-design-project).
 
-| TOPICS | HIGHLY SUGGESTED PROBLEMS | ADDITIONAL REFERENCE PROBLEMS |
-| --- | --- | --- |
-| Titration, ITC, SPR |  {{< br >}}{{< br >}} [2009, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_2009_ps5_prob), #1, 2 {{< br >}}{{< br >}} [2011, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_2011_ps4), #3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [2011, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_2011_ps5), #1, 2 {{< br >}}{{< br >}} [2010, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps1_pr), #3 {{< br >}}{{< br >}} [2010, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps2_pr), #3 {{< br >}}{{< br >}}  |
-| Enzyme Kinetics, QSSA, Enzyme Inhibitors |  {{< br >}}{{< br >}} [2009, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2009_ps6_prob), #1 {{< br >}}{{< br >}} [2010, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps3_pr), #1 {{< br >}}{{< br >}} [2011, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2011_ps6), #2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [2009, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2009_ps6_prob), #2, 3 {{< br >}}{{< br >}} [2010, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps2_pr), #1 {{< br >}}{{< br >}}  |
-| MAPK Cascade, Ultra-Sensitivity, Positive and Negative Feedback | There are no great conceptual problems for these topics. Refer to [Exams]({{< baseurl >}}/pages/exams) for how to apply these concepts to solving problems. |  {{< br >}}{{< br >}} [2010, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps3_pr), #2, 3 {{< br >}}{{< br >}} [2010, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps4_pr), #3 {{< br >}}{{< br >}}  |
-| Endocytosis, Receptor Trafficking, Haugh Model |  {{< br >}}{{< br >}} [2010, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps4_pr), #1, 2 {{< br >}}{{< br >}} [2011, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2011_ps6), #1 {{< br >}}{{< br >}}  | None for these topics. |
-| Transcriptional Networks | [2010, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps5_pr), #1, 2 | [2010, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps5_pr), #3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+HIGHLY SUGGESTED PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+ADDITIONAL REFERENCE PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Titration, ITC, SPR
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2009, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_2009_ps5_prob), #1, 2
+
+[2011, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_2011_ps4), #3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2011, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_2011_ps5), #1, 2
+
+[2010, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps1_pr), #3
+
+[2010, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps2_pr), #3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzyme Kinetics, QSSA, Enzyme Inhibitors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2009, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2009_ps6_prob), #1
+
+[2010, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps3_pr), #1
+
+[2011, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2011_ps6), #2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2009, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2009_ps6_prob), #2, 3
+
+[2010, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps2_pr), #1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MAPK Cascade, Ultra-Sensitivity, Positive and Negative Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+There are no great conceptual problems for these topics. Refer to [Exams]({{< baseurl >}}/pages/exams) for how to apply these concepts to solving problems.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2010, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps3_pr), #2, 3
+
+[2010, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps4_pr), #3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Endocytosis, Receptor Trafficking, Haugh Model
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2010, Problem Set 4]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps4_pr), #1, 2
+
+[2011, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_2011_ps6), #1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+None for these topics.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Transcriptional Networks
+{{< tdclose >}}
+{{< tdopen >}}
+[2010, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps5_pr), #1, 2
+{{< tdclose >}}
+{{< tdopen >}}
+[2010, Problem Set 5]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps5_pr), #3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

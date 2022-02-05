@@ -15,7 +15,73 @@ While these problems are not turned in for grading, they will greatly help you p
 
 The additional reference problems tend to be more coding-based and will help with additional practice to help with the [design project]({{< baseurl >}}/pages/modeling-and-manipulating-biomolecular-interactions/protein-design-project).
 
-| TOPICS | HIGHLY SUGGESTED PROBLEMS | ADDITIONAL REFERENCE PROBLEMS |
-| --- | --- | --- |
-| Protein Structure, Energetics |  {{< br >}}{{< br >}} [2009, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2009_ps1_prob), #3 {{< br >}}{{< br >}} [2010, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps6_pr), #3 {{< br >}}{{< br >}} [2011, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2011_ps1), #3 {{< br >}}{{< br >}} [2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [2009, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2009_ps1_prob), #1 {{< br >}}{{< br >}} [2009, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2009_ps2_prob), #1 {{< br >}}{{< br >}} [2010, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps6_pr), #1, 2 {{< br >}}{{< br >}} [2011, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2011_ps1), #2 {{< br >}}{{< br >}} [2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #3 {{< br >}}{{< br >}}  |
-| Specificity, Molecular Design |  {{< br >}}{{< br >}} [2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #1 {{< br >}}{{< br >}} [2011, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_2011_ps3), #2 {{< br >}}{{< br >}}  | [2011, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_2011_ps3), #3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+HIGHLY SUGGESTED PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+ADDITIONAL REFERENCE PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Structure, Energetics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2009, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2009_ps1_prob), #3
+
+[2010, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps6_pr), #3
+
+[2011, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2011_ps1), #3
+
+[2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2009, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2009_ps1_prob), #1
+
+[2009, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2009_ps2_prob), #1
+
+[2010, Problem Set 6]({{< baseurl >}}/resources/mit20_320f12_fa2010_ps6_pr), #1, 2
+
+[2011, Problem Set 1]({{< baseurl >}}/resources/mit20_320f12_2011_ps1), #2
+
+[2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Specificity, Molecular Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[2011, Problem Set 2]({{< baseurl >}}/resources/mit20_320f12_2011_ps2), #1
+
+[2011, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_2011_ps3), #2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[2011, Problem Set 3]({{< baseurl >}}/resources/mit20_320f12_2011_ps3), #3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

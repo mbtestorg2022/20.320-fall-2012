@@ -29,14 +29,76 @@ This course focuses on computational and experimental analysis of biological sys
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Exam 1 | 20 |
-| Exam 2 | 20 |
-| Protein Networks Project | 20 |
-| Protein Design Project | 20 |
-| Final Exam | 20 |
-| Problem Sets | 0 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Networks Project
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Design Project
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+
+
+{{< tableclose >}}
 
 Problem sets are not turned in or graded, although problems sets and answer keys from previous years are provided for your reference. Optional study problems are posted for each section. We strongly encourage the completion of study problems, as they provide a direct metric of your understanding of the material in the course and also serve as practice problems for the exams.
 
