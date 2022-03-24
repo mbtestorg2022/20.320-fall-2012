@@ -91,7 +91,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture12)
+[Predictive models of biology, genome editing, sensors, light-activated proteins, new enzymes, electrostatics (PDF - 1.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +100,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture13)
+[Hydrogen bonding, the hydrophobic effect, how we represent proteins (PDF - 2.4MB)]({{< baseurl >}}/resources/mit20_320f12_lecture13)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +118,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Specificity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture15)
+[Specificity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +136,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_320f12_lecture17)
+[Gradient descent, molecular dynamics, ΔΔG for small molecules, pharma priorities (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_320f12_lecture17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Drug development case study: Imatinib (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture18)
+[Drug development case study: Imatinib (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ TOPICS
 {{< tdopen >}}
 
 
-Guest lecture by Rebecca L. Carrier: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Impact of drug delivery of effectiveness (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture20)
+Guest lecture by Rebecca L. Carrier: [Impact of drug delivery of effectiveness (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture20)
 
 Courtesy of Rebecca L. Carrier. Used with permission.
 
@@ -169,7 +169,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Protein folding: thermodynamics (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture21)
+[Protein folding: thermodynamics (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinetics of folding, predicting protein structure (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_lecture22)
+[Kinetics of folding, predicting protein structure (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_320f12_lecture22)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structure from sequence (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture23)
+[Structure from sequence (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture24)
+[Kinases, graph theory, experimental and computational techniques (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_320f12_lecture24)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,6 +208,6 @@ Courtesy of Rebecca L. Carrier. Used with permission.
 
 Scheeff, Eric D., and J. Lynn Fink. "Fundamentals of Protein Structure." In _Structural Bioinformatics_. Edited by Philip E. Bourne, and Helge Weissig. Wiley-Liss, 2003, pp. 15–39. ISBN: 9780471201991. \[Preview with [Google Books](http://books.google.com/books?id=4H_ai7ivRIcC&pg=PA15#v=onepage)\]
 
-Grinstead, Charles M., and J. Laurie Snell, eds. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Introduction to Probability_ (PDF - 3.06MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf). American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with [Google Books](http://books.google.com/books?id=14oq4uWGCkwC&pg=PAfrontcover)\]
+Grinstead, Charles M., and J. Laurie Snell, eds. [_Introduction to Probability_ (PDF - 3.06MB)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf). American Mathematical Society, 1997. ISBN: 9780821807491. \[Preview with [Google Books](http://books.google.com/books?id=14oq4uWGCkwC&pg=PAfrontcover)\]
 
 Woolf, Peter, Burge Christopher, et al. [_Statistics and Probability Primer for Computational Biologists (PDF)_]({{< baseurl >}}/resources/mit20_320f12_stats_primer). 2004. (Courtesy of the authors. Used with permission.)

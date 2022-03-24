@@ -102,7 +102,7 @@ Problem Sets
 
 Problem sets are not turned in or graded, although problems sets and answer keys from previous years are provided for your reference. Optional study problems are posted for each section. We strongly encourage the completion of study problems, as they provide a direct metric of your understanding of the material in the course and also serve as practice problems for the exams.
 
-We adhere to the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Institute guidelines (PDF)](http://web.mit.edu/faculty/governance/rules/Rules%20&%20Regulations%2020160316.pdf) to determine final grades, and use the full range of grades, from "A" to "F".
+We adhere to the [Institute guidelines (PDF)](http://web.mit.edu/faculty/governance/rules/Rules%20&%20Regulations%2020160316.pdf) to determine final grades, and use the full range of grades, from "A" to "F".
 
 If you have questions about problems that you got wrong on the exams or design projects, or if you think you have been graded incorrectly, you are welcome to discuss your questions with any member of the staff. However, if you have concerns about your overall grade for the course, you must speak to either Professor Fraenkel or Professor White. The teaching assistants are not authorized to discuss projected or final course grades.
 

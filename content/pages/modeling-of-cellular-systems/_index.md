@@ -35,7 +35,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction, goals and rationale for the course, protein-ligand interactions (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture1)
+[Introduction, goals and rationale for the course, protein-ligand interactions (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Experimental techniques: Titration analysis, fractional saturation, the "pseudo-first order approximation" (PFOA), isothermal titration calorimetry (ITC), mass spectrometry (MS) (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture2)
+[Experimental techniques: Titration analysis, fractional saturation, the "pseudo-first order approximation" (PFOA), isothermal titration calorimetry (ITC), mass spectrometry (MS) (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Co-immunoprecipitation (Co-IP) and mass spectrometry (MS), Fӧrster resonance energy transfer (FRET), primary ligation assay (PLA), surface plasmon resonance (SPR) (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_lecture3)
+[Co-immunoprecipitation (Co-IP) and mass spectrometry (MS), Fӧrster resonance energy transfer (FRET), primary ligation assay (PLA), surface plasmon resonance (SPR) (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_lecture3)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Enzyme kinetics, Michaelis-Menten kinetics (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture4)
+[Enzyme kinetics, Michaelis-Menten kinetics (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Kinase engineering, competitive inhibition, non-competitive inhibition, epidermal growth factor receptor (EGFR) in cancer, regulation of kinase activity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture5)
+[Kinase engineering, competitive inhibition, non-competitive inhibition, epidermal growth factor receptor (EGFR) in cancer, regulation of kinase activity (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Constitutive kinases, modeling kinases, how to shut down kinases, multiple substrates, modeling abstraction, mitogen-activated protein kinase (MAPK) cascade (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture6)
+[Constitutive kinases, modeling kinases, how to shut down kinases, multiple substrates, modeling abstraction, mitogen-activated protein kinase (MAPK) cascade (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ultrasensitivity / amplification in the MAPK cascade (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture7)
+[Ultrasensitivity / amplification in the MAPK cascade (PDF)]({{< baseurl >}}/resources/mit20_320f12_lecture7)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Signal shut-down (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_lecture8)
+[Signal shut-down (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_320f12_lecture8)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Ligand depletion (Notes for this lecture are not available.)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Transcription factor (TF) phosphorylation (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture10)
+[Transcription factor (TF) phosphorylation (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Ligand depletion (Notes for this lecture are not available.)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Transcriptional regulation: Simple regulation, positive and negative autoregulation (PDF - 2.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture11)
+[Transcriptional regulation: Simple regulation, positive and negative autoregulation (PDF - 2.9MB)]({{< baseurl >}}/resources/mit20_320f12_lecture11)
 {{< tdclose >}}
 
 {{< trclose >}}

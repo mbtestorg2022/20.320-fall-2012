@@ -28,7 +28,7 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Protein Networks Project Guidelines and Directions (PDF)]({{< baseurl >}}/resources/mit20_320f12_de_pro_gu_di)
+[Protein Networks Project Guidelines and Directions (PDF)]({{< baseurl >}}/resources/mit20_320f12_de_pro_gu_di)
 {{< tdclose >}}
 {{< tdopen >}}
 
