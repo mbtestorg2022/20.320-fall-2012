@@ -29,10 +29,10 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_6.00 Introduction to Computer Science and Programming_](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+*   [_6.00 Introduction to Computer Science and Programming_](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011)
 *   _5.07 Biological Chemistry I_ or _7.05 General Biochemistry_
-*   [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011/)
-*   [_20.110J Thermodynamics of Biomolecular Systems_](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/)
+*   [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011)
+*   [_20.110J Thermodynamics of Biomolecular Systems_](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005)
 
 All of these courses are required for undergraduate students majoring in Biological Engineering.
 
